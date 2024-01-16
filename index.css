@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background: #222;
+}
+
+.box{
+    width: 400px;
+    height: 400px;
+    background: navy;
+    margin: 100px 600px;
+}
+.text{
+    width: 250px;
+    height: 250px;
+    background: dodgerblue;
+    margin-left: 75px;
+    transform: rotate(13deg);
+    overflow: auto;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    background: navy;
+    margin-left: 50px;
+    transform: rotate(18deg);
+    overflow: auto;
+}
+
+.lola{
+    height: 180px;
+    width: 1000px;
+   background-color: aqua;
+    margin-left: 200px;
+}
+.laylo{
+    width: 260px;
+    height: 260px;
+    background: #222;
+ 
+    transform: rotate(45deg) translateY(-25px);
+    overflow: auto;
+   
+    
+    margin-left: 375px;
+   display: block;
+  margin: auto;
+}
+.lola1{
+    width: 170px;
+    height: 170px;
+    background: aqua;
+    margin-left: 40px;
+}
+.lola2{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: #222;
+    margin: auto;
+}
+.btn{
+    width: 500px;
+    height: 150px;
+    background: navy;
+    margin-top: 200px;
+    margin-left: 200px;
+   
+
+}
+.btn1{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    background: #222;
+   transform: translateY(-120px);
+  
+   overflow: auto;
+
+   margin-left: 30px;
+ 
+
+
+}
+.btn2{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: navy;
+   
+    margin-left: 100px;
+}
+.btn3{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: gold;
+    margin-left: 60px;
+}
+.inp{
+    width: 400px;
+    height: 400px;
+    border: 1px solid red;
+   
+}
+.inp1{
+    width: 150px;
+    height:150px;
+    transform: rotate(30deg);
+    overflow: auto;
+    background-color: coral;
+    margin-top: 200px;
+    transform: translateY(100px) rotate(40deg) 
+    translateX(-1px);                                   
+   
+}
+.inp2{
+    width: 150px;
+    height: 150px;
+    transform: rotate(40deg) translateY(-70px) translateX(-20px);
+    overflow: auto;
+    background-color: red;
+  
+    margin-left: 40px;
+  
+    
+
+}
+.inp3{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background-color: bisque;
+    
+    transform: translateY(200px) translateX(200px);
+}
